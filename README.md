@@ -19,6 +19,7 @@ Based on Stocks Perfomance,
 1. the trend is downtrend with a slight rebound during April to June
 2. The trend continue bearish until December
 3. Highest profit sum is 400% & the lowest profit is 10%
+https://www.notion.so/axecapitals/Data-Engineering-593bf0d1f4d54fdb98101ad23d23d57d#797873dfd7b946a4b28ad69c38f1ea22
 
 
 ![Untitled.png](attachment:Untitled.png)
@@ -27,7 +28,7 @@ Based on Stocks Perfomance,
 1. the trend is downtrend with a slight rebound during April to June
 2. The trend continue bearish until December
 3. Highest profit sum is 140% & the lowest profit is -20%
-![Untitled%20%285%29.png](attachment:Untitled%20%285%29.png)
+https://www.notion.so/axecapitals/Data-Engineering-593bf0d1f4d54fdb98101ad23d23d57d#3d60f0c316e444f2aa721e2646fd8275
 
 # Conclusion 
 
