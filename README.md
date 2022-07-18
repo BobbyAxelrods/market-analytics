@@ -19,8 +19,7 @@ Based on Stocks Perfomance,
 1. the trend is downtrend with a slight rebound during April to June
 2. The trend continue bearish until December
 3. Highest profit sum is 400% & the lowest profit is 10%
-https://www.notion.so/axecapitals/Data-Engineering-593bf0d1f4d54fdb98101ad23d23d57d#797873dfd7b946a4b28ad69c38f1ea22
-
+https://s3.us-west-2.amazonaws.com/secure.notion-static.com/577c102a-3736-4e3a-b2f8-d0cf49dc8e48/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220718%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220718T143740Z&X-Amz-Expires=86400&X-Amz-Signature=bb8f2abfce4d863550dc247fa26685dfe4fe71f79a8237cd5143c2afa3d88b11&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject
 
 ![Untitled.png](attachment:Untitled.png)
 
@@ -28,7 +27,7 @@ Based on Stocks Perfomance,
 1. the trend is downtrend with a slight rebound during April to June
 2. The trend continue bearish until December
 3. Highest profit sum is 140% & the lowest profit is -20%
-https://www.notion.so/axecapitals/Data-Engineering-593bf0d1f4d54fdb98101ad23d23d57d#3d60f0c316e444f2aa721e2646fd8275
+https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8a1bcd9a-af2b-43e4-b1fc-8ea005cb023b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220718%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220718T143709Z&X-Amz-Expires=86400&X-Amz-Signature=90d0c511e94577f38e6c3fb3d0b73d8c6f40fffde35b69aeaff063bf6ea3c773&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject
 
 # Conclusion 
 
